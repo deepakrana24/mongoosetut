@@ -1,0 +1,17 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "this is project to learn and practice the mongoose ",
+  "main": "index.js",
+  "scripts": {
+    "script": "nodemon script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22"
+  }
+}
